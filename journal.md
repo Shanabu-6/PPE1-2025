@@ -33,4 +33,4 @@ j'ai revu les wildcards
 
 ###**> 6 octobre 2025 ; Avant la séance 3 :**
 
-- Maj de ce journal de bord .
+- Maj de ce journal de bord. 
