@@ -5,7 +5,7 @@
 
 **[Pour l'instant, la rédaction n'en est qu'au stade d'ébauche]**
 
-###**> 22 septembre 2025 : la première séance !**
+### **> 22 septembre 2025 : la première séance !**
 
 - Groupe formé avec deux autres étudiant.e.s de Paris Nanterre et Inalco.
 - Je suis impatient de commencer.
@@ -19,7 +19,7 @@
 En discutant avec une camarade, j'ai découvert l'application "Obsidian", qui permet de mettre en commun toutes ses notes, documents, outils, ressources, au sein d'un même espace, au format markdown. Cela permet de créer un "second cerveau", une sorte d'encyclopédie numérique personnelle, d'ailleurs visualisable sous la forme de nuages de points, afin de mieux se rendre compte des interconnexions entre des sujets en apparence éloignés. J'ai décidé d'alimenter mon journal de bord depuis Obsidian, et y regrouper toutes mes trouvailles, mes recherches au cours de ce master. 
 
 
-###**> 29 septembre 2025 : Avant la séance 2 :** 
+### **> 29 septembre 2025 : Avant la séance 2 :** 
 
 -> j'ai revu la partie du cours à propos des chemins absolus et relatifs. Y-a-t-il un moyen d'aller directement dans un dossier sans faire tout le chemin ? 
 
@@ -31,6 +31,6 @@ j'ai revu les wildcards
 - Installation de wget depuis Homebrew, pour télécharger le .zip.
 
 
-###**> 6 octobre 2025 ; Avant la séance 3 :**
+### **> 6 octobre 2025 ; Avant la séance 3 :**
 
 - Maj de ce journal de bord. 
